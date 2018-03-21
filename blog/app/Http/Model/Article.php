@@ -4,6 +4,7 @@ namespace App\Http\Model;
 
 use Illuminate\Database\Eloquent\Model;
 
+//文章模型
 class Article extends Model
 {
     protected $table='article';

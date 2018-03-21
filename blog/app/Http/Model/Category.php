@@ -4,6 +4,7 @@ namespace App\Http\Model;
 
 use Illuminate\Database\Eloquent\Model;
 
+//文章分类模型
 class Category extends Model
 {
     protected $table='category';

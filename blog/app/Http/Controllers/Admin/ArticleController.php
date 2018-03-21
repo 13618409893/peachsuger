@@ -9,6 +9,7 @@ use App\Http\Model\Category;
 use Illuminate\Support\Facades\Input;
 use Illuminate\Support\Facades\Validator;
 use App\Http\Model\Article;
+
 class ArticleController extends CommonController
 {
     //get  admin/article      //全部文章列表
